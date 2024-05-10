@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on getting my B.S. Computer Science from East Carolina University
-- 🌱 I’m currently learning back-end web development, with a focus on Python and C#
+- 🔭 I’m recently graduated with a B.S. in Computer Science from East Carolina University
+- 🌱 I’m currently learning back-end web development, with a focus on Python and JavaScript
 - 📫 How to reach me: mattmiranda55@gmail.com or [LinkedIn](https://www.linkedin.com/in/matthew-miranda-b4b45a232/)
 
